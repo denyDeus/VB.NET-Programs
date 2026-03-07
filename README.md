@@ -15,3 +15,20 @@ It serves as both a **learning archive** and a **portfolio of VB.NET development
 - Implement programming concepts through practical examples
 - Build small desktop applications
 - Improve coding structure and problem-solving skills
+
+---
+
+## 🚀 Future Plans
+
+As learning progresses, this repository will include:
+
+- More complex VB.NET applications
+- GUI-based desktop applications
+- File handling programs
+- Structured and modular programs
+
+---
+
+## 📜 License
+
+This repository is open for learning purposes and educational exploration.
